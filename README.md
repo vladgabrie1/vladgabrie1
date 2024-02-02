@@ -38,7 +38,7 @@ Here are a few highlights of the projects I've worked on:
 
 - **Description:** A web application created to display, add and delete perfumes and perfume notes from a database.
 - **Technologies:** Spring, Hibernate, Thymeleaf, Bootstrap
-- **Link:** 
+- **Link:** https://github.com/vladgabrie1/CRUD-perfumery
 
 ## 🌱 Current Focus
 
