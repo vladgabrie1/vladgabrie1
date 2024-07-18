@@ -1,6 +1,6 @@
 # About Me 🚀
 
-Greetings, curious mind! 🌟 I'm Buinceanu Vlad-Gabriel, a second-year computer science student with a passion for Artificial Intelligence and Web Development. Welcome to my GitHub profile! 🚀
+Greetings, curious mind! 🌟 I'm Buinceanu Vlad-Gabriel, a final year computer science student with a passion for Artificial Intelligence and Web Development. Welcome to my GitHub profile! 🚀
 
 ## About Me
 
