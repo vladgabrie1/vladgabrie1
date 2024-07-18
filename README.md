@@ -17,12 +17,13 @@ Greetings, curious mind! 🌟 I'm Buinceanu Vlad-Gabriel, a second-year computer
   - HTML, CSS, JavaScript
 
   **Technologies:**
-  - Spring, Hibernate, JavaFX
+  - Spring, Hibernate, JavaFX, React
   - Bootstrap, Npm, Webpack
   - Google Cloud
 
   **Databases:**
   - PostgreSQL
+  - MongoDB
   - H2
 
   **Tools:**
