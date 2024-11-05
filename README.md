@@ -5,7 +5,7 @@ Greetings, curious mind! 🌟 I'm Buinceanu Vlad-Gabriel, a final year computer 
 ## About Me
 
 - 🌐 Location: Antwerp, Belgium 🇧🇪 / Iași, Romania 🇷🇴
-- 🎓 Education: Computer Science, Second Year at Karel de Grote University
+- 🎓 Education: Computer Science, Final Year at Karel de Grote University
 - 🔧 **Technologies & Tools**
 
   I am familiar with a variety of technologies and tools, including:
@@ -14,12 +14,13 @@ Greetings, curious mind! 🌟 I'm Buinceanu Vlad-Gabriel, a final year computer 
   - Java
   - Python
   - Bash
-  - HTML, CSS, JavaScript
+  - SQL
+  - HTML, CSS, JavaScript, Typescript
 
   **Technologies:**
-  - Spring, Hibernate, JavaFX, React
-  - Bootstrap, Npm, Webpack
-  - Google Cloud
+  - Spring Boot, Hibernate, Spring Security, JUnit, Mockito, Test Containers
+  - React, Thymeleaf, Bootstrap
+  - Google Cloud, RabbitMQ
 
   **Databases:**
   - PostgreSQL
@@ -29,12 +30,20 @@ Greetings, curious mind! 🌟 I'm Buinceanu Vlad-Gabriel, a final year computer 
   **Tools:**
   - Git
   - Figma
-  - InteliJ, Postman, PyCharm, Docker
+  - InteliJ, Postman, PyCharm, Docker, Gitlab
 
 ## 👨‍💻 Projects
 
 Here are a few highlights of the projects I've worked on:
 
+### Minerala Flow Logistics System
+- Developed a full-stack mineral logistics system with a React and TypeScript frontend, enabling users to monitor
+products flow and warehouse activities in real-time.
+- Implemented a backend consisting of four bounded contexts communicating asynchronously via RabbitMQ.
+- Designed a MySQL database to store and manage inventory, delivery schedules, and invoicing data, ensuring
+eﬃcient data retrieval and storage scalability.
+- Secured the application using Spring Security with Keycloak for centralized user management and authentication.
+- **Link**: https://github.com/vladgabrie1/Mineral-Management-System
 ### CRUD Perfumery
 
 - **Description:** A web application created to display, add and delete perfumes and perfume notes from a database.
