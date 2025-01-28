@@ -19,18 +19,19 @@ Greetings, curious mind! 🌟 I'm Buinceanu Vlad-Gabriel, a final year computer 
 
   **Technologies:**
   - Spring Boot, Hibernate, Spring Security, JUnit, Mockito, Test Containers
-  - React, Thymeleaf, Bootstrap
-  - Google Cloud, RabbitMQ
+  - React, Thymeleaf
+  - Google Cloud, Azure, Keycloack, RabbitMQ
 
   **Databases:**
   - PostgreSQL
+  - Azure SQL
   - MongoDB
   - H2
 
   **Tools:**
   - Git
   - Figma
-  - InteliJ, Postman, PyCharm, Docker, Gitlab
+  - Postman, Docker, Gitlab
 
 ## 👨‍💻 Projects
 
