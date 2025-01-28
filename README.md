@@ -42,7 +42,7 @@ Here are a few highlights of the projects I've worked on:
 - Engineered a RAG-powered chatbot using LLMs for game rule assistance.  
 - Designed a Azure SQL database to track player statistics (wins/losses, game duration, demographics).
 - Secured the platform with **Keycloak SSO** and Spring Security, while optimizing deployments via GitLab CI/CD pipelines with Docker containers on Azure.  
-- **Link**: [https://github.com/yourusername/BanditGames ](https://github.com/vladgabrie1/gaming-platform) 
+- **Link**: https://github.com/vladgabrie1/gaming-platform
 
 ### Minerala Flow Logistics System
 - Developed a full-stack mineral logistics system with a React and TypeScript frontend, enabling users to monitor
